@@ -1,0 +1,23 @@
+[
+ {
+  "id": "u101",
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "role": "admin"
+ },
+ {
+  "id": "u102",
+  "name": "Ervin Howell",
+  "username": "Antonette",
+  "email": "Shanna@melissa.tv",
+  "role": "moderator"
+ },
+ {
+  "id": "u103",
+  "name": "Clementine Bauch",
+  "username": "Samantha",
+  "email": "Nathan@yesenia.net",
+  "role": "user"
+ }
+]

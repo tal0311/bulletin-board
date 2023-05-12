@@ -1,0 +1,22 @@
+body {
+ background: rgb(229, 210, 35);
+}
+
+main.details-open {
+ /* display: grid; */
+ grid-template-columns: repeat(2, 60%, 40%);
+}
+
+.post-details {
+ position: fixed;
+ right: 0;
+ top: 0;
+ width: 40%;
+ height: 100vh;
+ /* display: grid; */
+ background: #fff;
+ padding: 1em;
+}
+.grid {
+ display: grid;
+}
