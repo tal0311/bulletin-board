@@ -1,5 +1,6 @@
 body {
- background: rgb(229, 210, 35);
+ background: rgb(216, 207, 119);
+ margin: 0;
 }
 
 main.details-open {
@@ -13,9 +14,12 @@ main.details-open {
  top: 0;
  width: 40%;
  height: 100vh;
- /* display: grid; */
  background: #fff;
  padding: 1em;
+}
+
+.post-details.show {
+ box-shadow: 0 0 0 100vw #00000078;
 }
 .grid {
  display: grid;
